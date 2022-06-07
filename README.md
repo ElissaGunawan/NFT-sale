@@ -22,7 +22,7 @@ $ npm install -g truffle or npm install -g truffle@5.4.22
 # Download ganache (jika belum memiliki ganache)
 https://trufflesuite.com/ganache/
 
-# Install library yang dibutuhkan 
+# Install library yang dibutuhkan (dalam folder client)
 $ npm install
 
 
