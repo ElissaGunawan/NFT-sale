@@ -1,36 +1,37 @@
 # NFT-sale
 
 Requirement :
-GitHub
-NodeJs
-Npm
-Truffle
-Ganache
+1. GitHub
+2. NodeJs
+3. Npm
+4. Truffle
+5. Ganache
 
-# jalankan beberapa perintah untuk menjalankan website
+# Jalankan beberapa perintah untuk menjalankan website
 $ git clone https://github.com/ElissaGunawan/NFT-sale.git
 
-# pergi ke project folder
+# Pergi ke project folder
 $ cd NFT-sale
 
-# masuk ke dalam folder client
+# Masuk ke dalam folder client
 $ cd client
 
-# install truffle (jika belum memiliki truffle)
+# Install truffle (jika belum memiliki truffle)
 $ npm install -g truffle or npm install -g truffle@5.4.22
 
-# download ganache (jika belum memiliki ganache)
+# Download ganache (jika belum memiliki ganache)
 https://trufflesuite.com/ganache/
 
-# install library yang dibutuhkan 
+# Install library yang dibutuhkan 
 $ npm install
 
 
-# buka ganache
-# pilih quickstart
-# jalankan perintah truffle
+# Buka ganache
+# Pilih quickstart
+
+# Jalankan perintah truffle
 $ truffle compile
 $ truffle migrate
 
-# run the website
+# Run the website
 $ npm start
